@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad1cad1-0f16-4c52-b473-b6b61de60de3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="cad1cad1-0f16-4c52-b473-b6b61de60de3" name="Changes" comment="seems ok">
+      <change afterPath="$PROJECT_DIR$/src/HW_3/Part1/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_3/Part1/UnwrapFailureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_3/Part2/ErrResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_3/Part2/OkResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_3/Part2/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_3/Part2/UnwrapFailureException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +69,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709049624965</updated>
-      <workItem from="1709049626210" duration="5164000" />
+      <workItem from="1709049626210" duration="5701000" />
     </task>
+    <task id="LOCAL-00001" summary="seems ok">
+      <option name="closed" value="true" />
+      <created>1709058246804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709058246804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +95,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="seems ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="seems ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
